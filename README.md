@@ -1,4 +1,4 @@
-# ML-Bank-clients-churn-
+# ML-Bank-clients-churn
 ML model training and prediction of bank customer churn
 Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых.
 
@@ -11,7 +11,7 @@ ML model training and prediction of bank customer churn
 Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
 
-Оглавление:
+## Оглавление:
 
 Подготовка данных
 
