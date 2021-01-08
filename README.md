@@ -10,6 +10,7 @@ ML model training and prediction of bank customer churn
 
 Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
+
 Оглавление:
 
 Подготовка данных
